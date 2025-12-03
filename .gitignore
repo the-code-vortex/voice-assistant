@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+venv/
+env/
+.vscode/
+recordings/
+speech_log.txt
+*.wav
+*.mp3
+.env
+config.py
+.DS_Store
+*.log
